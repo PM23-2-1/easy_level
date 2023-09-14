@@ -8,6 +8,6 @@
 ```
 # Задачи лёгкого уровня
 1. Задачи 1 и 2 выполненны:
-    - [Первая задача](https://github.com/PM23-2-1/first_task)
-    - [Вторая задача](https://github.com/PM23-2-1/second_task)
+    -[Первая задача](https://github.com/PM23-2-1/first_task)
+    -[Вторая задача](https://github.com/PM23-2-1/second_task)
 2. Остальные задачи лёгкого уровня тут
