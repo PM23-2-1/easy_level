@@ -19,5 +19,5 @@ def ch_nch_min_nch():
 
 def dictionary_month():
     month = ['январь', 'февраль', 'март', 'апрель', 'май', 'июнь', 'июль', 'август', 'сентябрь', 'октябрь', 'ноябрь', 'декабрь']
-    dict_month = {k: v for k, v in zip(month, range(1, 13))}
+    dict_month = dict(zip(month, range(1, 13)))
     print(dict_month)
